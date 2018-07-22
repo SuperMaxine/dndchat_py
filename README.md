@@ -14,3 +14,7 @@ A tiny program to play dnd and Implement with Python
   （2）人物属性公示并方便kp修改
   ---后期可以考虑直接集成各个模组的规则---
   （3）图像传输（或地图功能）
+
+进阶需求
+1、图形化界面
+2、Android手机端
